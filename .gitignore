@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local/runtime artifacts
+.tmp_docx/
+analysis/
+experiments/
+deliverables/
+logs/
+outputs/
+results/
+
+# Datasets and generated active-view scenes
+data/
+archive/
+
+# Large or ad-hoc bundles
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.docx
+
+# Empty/ad-hoc local notes
+mvp_comparison_summary.txt
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+.tmp*/
+*.tmp
+*.temp
+*.log
